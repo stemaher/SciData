@@ -3,4 +3,5 @@ RStudio code used to preprocess proteome and phosphoproteome mass spectrometry f
 
 
 Normalised & imputed output files also available
-
+1. Proteome; Intensities.rds
+2. Phosphoproteome; NormalizedData.rds
